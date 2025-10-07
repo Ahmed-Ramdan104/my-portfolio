@@ -144,7 +144,7 @@ transition: 0.5s ease;
     color: red;
     background-color: black;
     padding: 25px;
-    margin-right: 320px;
+    margin-right: 140px;
     margin-left: 290px;
     padding: 35px;
     align-items: center;  
@@ -275,3 +275,4 @@ box-sizing: border-box;
   }
   
  
+
